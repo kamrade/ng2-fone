@@ -1,0 +1,27 @@
+{
+  "name": "ng2-fone",
+  "version": "0.1.1",
+  "description": "",
+  "main": "bundles/ng2-fone.umd.min.js",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2"
+  ],
+  "author": "Denis Michailov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamrade/ng2-fone.git"
+  },
+  "homepage": "https://github.com/kamrade/ng2-fone",
+  "bugs": {
+    "url": "https://github.com/kamrade/ng2-fone/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "2.4.2",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  }
+}

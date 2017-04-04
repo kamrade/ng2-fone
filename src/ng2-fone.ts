@@ -21559,7 +21559,6 @@ export class Ng2Fone {
       }
   ];
 
-
     getmobilename(modelno: string) {
         for (var i = 0; i < this.deviceinfo.length; i++) {
             if (modelno == this.deviceinfo[i].Model) {
@@ -21573,5 +21572,5 @@ export class Ng2Fone {
             }
         }
     }
-    
+
 }
